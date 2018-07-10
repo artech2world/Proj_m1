@@ -4,6 +4,7 @@ Ionic Project with Welcome page.
 Test of Changes#1
 Test of Changes#2
 Test of Changes#3
+Test of Changes#4
 
 <table><tr>
 <td width="25%">
