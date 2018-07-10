@@ -2,7 +2,7 @@
 Ionic Project with Welcome page. 
 
 Test of Changes#1
-
+Test of Changes#2
 
 <table><tr>
 <td width="25%">
