@@ -9,15 +9,15 @@ Test of Changes#4
 <table><tr>
 <td width="25%">
 Welcome page
-<img src="http://i.imgur.com/tNmu7Ce.png" width="200" alt="Ionic 3 and Angular 4 Create Welcome page with Login and Logout">
+<img src="http://.png" width="200" alt="Ionic 3  Login and Logout">
 </td>
 <td width="25%">
 Signup Page
-<img src="http://i.imgur.com/bxShO36.png" width="200" alt="Ionic 3 and Angular 4 Create Welcome page with Login and Logout">
+<img src="http://6.png" width="200" alt="Ionic 3  Login and Logout">
 </td>
 <td width="25%">
 Home page
-<img src="http://i.imgur.com/IZPEqiP.png" width="200" alt="Ionic 3 and Angular 4 Create Welcome page with Login and Logout">
+<img src="http://.png" width="200" alt="Ionic 3 Login and Logout">
 </td>
 
 </tr></table>
