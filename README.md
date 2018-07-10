@@ -1,6 +1,8 @@
 # ionic-welcome
 Ionic Project with Welcome page. 
 
+Test of Changes#1
+
 
 <table><tr>
 <td width="25%">
